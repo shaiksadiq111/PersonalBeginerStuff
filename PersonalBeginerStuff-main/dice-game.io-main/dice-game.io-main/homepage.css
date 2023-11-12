@@ -1,0 +1,41 @@
+body{
+  background-color: #433520;
+}
+hr{
+  width: 0;
+}
+.cantainer{
+  width: 71%;
+}
+.name{
+  display: inline;
+  color: #00917c;
+  font-size: 2rem;
+}
+
+.first{
+  color: #00917c;
+  font-family: cursive;
+  font-size: 5rem;
+  text-align: right;
+}
+.Player1{
+  position: relative;
+  left: 35%;
+}
+.Player2{
+  position: relative;
+  left: 70%;
+}
+.photo1{
+  margin-top: 5%;
+  width: 20%;
+  position:relative;
+  left:30%;
+}
+.photo2{
+  margin-top: 5%;
+  width: 20%;
+  position:relative;
+  left:60%;
+}
